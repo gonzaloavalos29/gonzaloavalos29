@@ -1,8 +1,3 @@
-¡Excelente, con esto cambia todo! Tu CV muestra un perfil mucho más fuerte del que aparecía en GitHub: Fullstack + Data Science, experiencia real en ForIT, un proyecto de ML, y un stack amplio. Lo armé con datos reales manteniendo el estilo minimalista.
-
-Nota: dejé email y LinkedIn como contacto (que es lo normal y ya están en tu CV público), pero omití el teléfono y la dirección exacta — no conviene exponerlos en un perfil público. Si querés agregarlos, avisame.
-
-
 # Gonzalo Matías Avalos
 
 Fullstack Developer · Data Science · Argentina
