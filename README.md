@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Gonzalo Matías Avalos 👋</h1>
+<h1 align="center">Hola, soy Gonzalo 👋</h1>
 
 <p align="center">
   <b>Fullstack Developer · Data Science</b> · Argentina 🇦🇷
