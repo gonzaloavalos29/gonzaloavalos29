@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Gonzalo 👋</h1>
 
 <p align="center">
-  <b>Fullstack Developer · Data Science</b> · Argentina 🇦🇷
+  <b>Fullstack Developer · Data Scientist</b> · Argentina 🇦🇷
 </p>
 
 <p align="center">
