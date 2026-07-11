@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudiante avanzado de Informática (UNLP) orientado a Datos e Ingeniería de Software.<br/>
+  Estudiante orientado a Datos e Ingeniería de Software.<br/>
   Cubro el ciclo completo del dato: de la limpieza y el entrenamiento de modelos<br/>
   predictivos hasta su integración en producción mediante APIs.
 </p>
